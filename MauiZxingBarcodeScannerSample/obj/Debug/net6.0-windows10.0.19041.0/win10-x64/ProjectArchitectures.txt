@@ -1,0 +1,1 @@
+C:\Users\Chandran.R\Desktop\bin\New folder\MauiZxingBarcodeScannerSample\MauiZxingBarcodeScannerSample.csproj;x64
